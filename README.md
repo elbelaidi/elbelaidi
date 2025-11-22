@@ -15,4 +15,4 @@ Fun Facts:
 📬 Contact me:
 Linktree: https://linktr.ee/elbelaidi
 
-LinkedIn: linkedin.com/in/saad-elbelaidi
+LinkedIn: https://www.linkedin.com/in/saad-elbelaidi/
