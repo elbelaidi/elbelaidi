@@ -1,18 +1,29 @@
-## Hi there 👋
+Hi there 👋
 
-Hey there!
-I’m Saad, a software engineer based in Morocco.
+I'm Saad, a software engineer from Morocco 🇲🇦.
 
-I love turning ideas into real applications — from full-stack web apps to computer vision projects. I enjoy learning new technologies, improving systems, and building things that actually solve problems.
+I love building things — from full-stack web applications to computer vision projects. Turning ideas into real, functional products is what drives me. I'm always exploring new technologies, improving systems, and creating solutions that actually solve problems.
 
-My main stack includes Java/Spring Boot, with experience in React, Node.js, Laravel and Python. I like clean code, simple design, and practical solutions.
+🛠️ Tech Stack
 
-Fun Facts:
-• Big fan of Game of thrones
-• Always learning something new
-• Passionate about building and improving things
+Backend: Java / Spring Boot, Node.js, Laravel
 
-📬 Contact me:
-Linktree: https://linktr.ee/elbelaidi
+Frontend: React
 
-LinkedIn: https://www.linkedin.com/in/saad-elbelaidi/
+Other: Python, Computer Vision
+
+I enjoy clean code, simple design, and practical engineering.
+
+🌟 Fun Facts
+
+🐉 Big Game of Thrones fan
+
+📚 Always learning something new
+
+🔧 Passionate about building and improving things
+
+📬 Contact Me
+
+🌐 Linktree: linktr.ee/saad.elbelaidi
+
+💼 LinkedIn: linkedin.com/in/saad-elbelaidi
