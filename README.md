@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**elbelaidi/elbelaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there!
+I’m Saad, a software engineer based in Morocco.
 
-Here are some ideas to get you started:
+I love turning ideas into real applications — from full-stack web apps to computer vision projects. I enjoy learning new technologies, improving systems, and building things that actually solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack includes Java/Spring Boot, with experience in React, Node.js, Laravel and Python. I like clean code, simple design, and practical solutions.
+
+Fun Facts:
+• Big fan of Game of thrones
+• Always learning something new
+• Passionate about building and improving things
+
+📬 Contact me:
+Linktree: https://linktr.ee/elbelaidi
+
+LinkedIn: linkedin.com/in/saad-elbelaidi
